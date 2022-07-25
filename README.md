@@ -9,7 +9,7 @@
 <p> A. 8 </p> 
 <p> B. 16 </p>
 <p> C. 32 </p>
-<p style="background-color:MediumSeaGreen;">MediumSeaGreen> D. No fixied length </p>
+<p style="background-color:MediumSeaGreen;"> D. No fixied length </p>
 </head>
 
 
